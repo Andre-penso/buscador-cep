@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Buscador CEP Penso 123</h1>
+      <h1 className="title">Buscador GOOGLE CEP Penso 123</h1>
 
       <div className="containerInput">
         <input
