@@ -31,8 +31,8 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Buscador CEP</h1>
-
+      <h1 className="title">Buscador CEEEEEP</h1>
+      <h2 className="title">Simples</h2>
       <div className="containerInput">
         <input
         type="text"
